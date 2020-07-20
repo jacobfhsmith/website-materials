@@ -1,0 +1,150 @@
+---
+title: "STA 102: Intro to Biostatistics"
+author: Spring 2020
+markup: "mmark"
+output:
+  rmarkdown::html_document:
+    toc: FALSE
+---
+
+STA 102 is an introductory course in statistics and data science motivated by timely applications from the health sciences, biomedical research, and public health. Students will understand common statistical methods and their suitability in answering specific research questions of interest, conduct rigorous, reproducible analysis using R, interpret results in context and translating them to language accessible to allied health science researchers, and critique statistical usage in the field in order to evaluate data-based claims and decisions.
+
+### Activities & Assessments
+Activities and assessments focus on understanding methods and interpreting results, as well as hands-on analyses of real-world data using R. All homeworks and labs must be made via electronic submission to the class Sakai page using the R Markdown templates provided, with unlimited re-submissions allowed until noon on the due date (only the most recent version will be graded).<br> 
+<br>
+
+#### Homework (20%)
+
+There are ten homeworks, assigned on Tuesdays and due 9 days later on the following Thursday. The homeworks focus on interpreting results, complete data analyses, and reinforce concepts and methods from lecture and lab. Free free to discuss homework assignments with other students -- however, all work must be your own and submitted individually. 
+
+*No late homeworks are accepted, but the lowest grade is automatically dropped.*
+<br> 
+<br>
+
+#### Labs (10%)
+
+There are ten computing labs, assigned on Mondays and due 3 days later that Thursday (except the first lab). Labs are primarily team-based work that focus on developing programming tools to tackle analysis of real-world datasets. Lab groups will be assigned in order to promote diversity among team members -- you will be asked to evaluate each others' contributions periodically throughout the semester.
+
+*No late labs are accepted, but the lowest grade is automatically dropped.*
+<br> 
+<br>
+
+#### Midterm Exams (45%)
+
+Three midterm exams test understanding and interpretation of methods, with inclusion of some basic computations as needed. Each exam corresponds to one of the three units, and are scheduled on Tuesdays (with the lecture on the previous Thursday being reserved for in-class review of tested concepts). 
+
+All exams are closed, in-class exams, with **absolutely no electronics allowed**, including calculators. However, one (1) single 3'' by 5'' handwritten index card (front and back) is permitted for use as notes to be used for the exam; these must be turned in with the exam.
+
+*Exam dates cannot be changed and no make-up exams will be given.*
+<br> 
+<br>
+
+#### Final Group Project (20%)
+
+The final project is an open-ended statistical analysis that answers a research question of interest using a real-world dataset. The project must be completed with lab group members; you will be asked to evaluate team members' contributions. A proposal is assigned March 31 (due April 7), and final write-ups are due Sunday, April 26 at 11:59p, with in-class presentations from 9--12 on Monday, April 27. Submission must be made via electronic submission to the class Sakai page, with unlimited re-submissions allowed until 11:59p on April 26.
+
+*You must turn in a write-up on time and present with your lab group during the final exam period on April 27 in order to pass the course.*
+
+More details to follow.
+<br> 
+<br>
+
+#### Participation (5%)
+
+Participation consists of completion of in-class activities, as tracked by answering discussion questions via Google Forms, in order for me to gauge class understanding and stimulate discussion. Participation is checked for completeness, not accuracy. Completing 90% or more of participation activities will count as full participation; completing less than 90% will result in the participation grade being assessed pro rata according to the percentage of activities completed
+<br> 
+<br>
+
+### Grade Calculation
+
+The following table presents the contribution of each component to a student's final grade:
+
+{.table .table2 .table-condensed .table-striped .text-left}
+ <span></span>     | <span></span>  
+-----|----
+Homework | 20%
+Labs | 10%
+Midterm Exam 1 | 15%
+Midterm Exam 2 | 15%
+Midterm Exam 3 | 15%
+Final Project | 20%
+Participation | 5%
+
+A letter grade will be assigned as follows:  
+ 
+{.table .table2 .table-condensed .table-striped .text-center}
+<span></span>     | <span></span>     | <span></span>    | <span></span>    |  <span></span>      
+----|----|----|----|----
+92.5 | &le; | A  | &le; | 100.0
+90.0 | &le; | A- | &lt; | 92.5 
+87.5 | &le; | B+ | &lt; | 90.0
+82.5 | &le; | B  | &lt; | 87.5 
+80.0 | &le; | B- | &lt; | 82.5 
+77.5 | &le; | C+ | &lt; | 80.0
+72.5 | &le; | C  | &lt; | 77.5 
+70.0 | &le; | C- | &lt; | 72.5 
+67.5 | &le; | D+ | &lt; | 70.0
+62.5 | &le; | D  | &lt; | 67.5 
+60.0 | &le; | D- | &lt; | 62.5 
+0.0  | &le; | F  | &lt; | 60.0 
+ 
+Attendance in lecture and lab is a firm expectation; frequent absences or tardiness will be considered a legitimate cause for grade reduction. 
+
+If you have a cumulative numerical average of at least 90%, you are guaranteed at least an A-; 80% at least a B-, etc. I may use more generous cut points depending on the overall difficulty of assignments and examinations, but under no circumstances will a student’s grade be curved downward.
+
+Regrade requests for homeworks, labs, and exams must be submitted within one week of when the assignment is returned, and should be submitted through the [online form](link goes here). Regrade requests will be honored if there is an error in the grade calculation or a correct answer was mistakenly marked as incorrect. Note, however, that regrades may result in a lower grade than originally given. No grades will be changed after the final project presentations. 
+
+*Grades can only be changed by Professor Jiang. Teaching Assistants cannot change grades on returned assignments.*
+<br> 
+<br>
+<!-- ## Policies & Additional Information -->
+
+### Absences and Late Work
+Students who miss a class due to a scheduled varsity trip, religious holiday, or short-term illness should fill out the respective form: however, these excused absences do not excuse you from assigned work.
+
+If you have a personal or family emergency or chronic health condition that affects your ability to participate in class, please contact your academic dean's office. Review the [Trinity excused absence policy](https://trinity.duke.edu/undergraduate/academic-policies/class-attendance-and-missed-work) for further details.
+
+Exams missed in accordance with the excused absence policy will not count toward grade calculations; the other two exams will be up-weighted. However, you must take at least two exams, submit the final project write-up on time, and present the final project during the final exam period in order to pass the course.
+
+**No late work is accepted.**
+
+### Procedure for Testing Accommodations 
+
+This class will use the Testing Center to provide testing accommodations to undergraduates registered with and approved by the [Student Diability Access Office (SDAO)](https://access.duke.edu/students). The center operates by appointment only and appointments must be made at least 7 consecutive days in advance, but please schedule your appointments as far in advance as possible. You will not be able to make an appointment until you have submitted a Semester Request with the SDAO and it has been approved. So, if you have not done so already, promptly submit a Semester Request to the SDAO in order to make your appointment in time. For instructions on how to register with SDAO, visit their website [here](https://access.duke.edu/requests). For instructions on how to make an appointment at the Testing Center, visit their website [here](https://testingcenter.duke.edu). 
+
+<br>
+<br>
+
+### Inclusion & Class Etiquette 
+
+Behavior in and out of the classroom should enhance the learning process. At all times we will use common courtesy and respectful behavior. In this course, we will strive to create a learning environment that is welcoming to all students and that is in alignment with [Duke's Commitment to Diversity and Inclusion](https://provost.duke.edu/initiatives/commitment-to-diversity-and-inclusion).
+
+If there is any aspect of the class that is not welcoming or accessible to you, please let me know immediately. Additionally, if you are experiencing something outside of class that is affecting your performance in the course, please feel free to talk with me and/or your academic dean
+<br>
+<br>
+
+### Where to find help
+
+If you have a question, ask! There are likely other students with the same question, so by asking you will create a learning opportunity for everyone. Occasionally, I may defer a question to office hours. Please be understanding -- it does not mean that I think your question is bad; we may simply be running behind. 
+- Office hours are a valuable resource for more individual attention. Use them!
+- Outside of class and office hours, general questions about course content or assignments should be posted on the course Piazza site, since there are likely other students with the same questions.
+- Sometimes you may need help with the class that is beyond what can be provided by the teaching team. In that instance, I encourage you to visit the [Academic Resource Center (ARC)](https://arc.duke.edu/). The ARC offers free services to all students during their undergraduate careers at Duke. Services include Learning Consultations, Peer Tutoring and Study Groups, ADHD/LD Coaching, Outreach Workshops, and more. 
+<br> 
+<br>
+
+### Academic Honesty
+
+Academic honesty is of paramount importance in this class, and all work must be done in accordance with the Duke Community Standar, reproduced as follows:
+
+To uphold the [Duke Community Standard](https://studentaffairs.duke.edu/conduct/about-us/duke-community-standard):
+- I will not lie, cheat, or steal in my academic endeavors;
+- I will conduct myself honorably in all my endeavors; and
+- I will act if the Standard is compromised.
+
+By enrolling in this course, you have agreed to abide by and uphold the provisions of the [Duke Community Standard](https://studentaffairs.duke.edu/conduct/about-us/duke-community-standard) as well as the policies specific to this course. Any violations will automatically result in a grade of 0 on the assignment and will be reported to the [Office of Student Conduct](https://studentaffairs.duke.edu/conduct) for further action.
+<br> 
+<br>
+
+### Technology
+
+You should bring a laptop to every lecture and lab session. Outlets are limited, so make sure it is fully-charged. Ensure the volume on all devices is set to mute, and please refrain from engaging in activities not related to the class discussion. Browsing the web and social media, excessive messaging, playing games, etc. is not only a distraction for you but is also a distraction for everyone around you.

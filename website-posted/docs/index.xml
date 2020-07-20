@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>STA 199: Intro to Data Science on STA 199 | Intro to Data Science</title>
+    <link>/</link>
+    <description>Recent content in STA 199: Intro to Data Science on STA 199 | Intro to Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/schedule.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule.html</guid>
+      <description>Note:  This schedule may be updated as the semester progresses, with all changes documented here. Due dates for the exams and project will not be changed. 
+
+  Date Activity Slides Reading Lab HW Exam Project   Week 01 Tue, Aug 18 Lec 01: Introduction          Thu, Aug 20 Lec 02: Meet the toolkit          Fri, Aug 21 Lab 01: First steps in data science         Week 02 Tue, Aug 25 Lec 03: Data visualization 1          Thu, Aug 27 Lec 04: Data visualization 2          Fri, Aug 28 Lab 02: Data visualization         Week 03 Tue, Sep 01 Lec 05: Data wrangling/manipulation 1          Thu, Sep 03 Lec 06: Data wrangling/manipulation 2          Fri, Sep 04 Lab 03: Data wrangling/team workflow         Week 04 Tue, Sep 08 Lec 07: Introduction to probability          Thu, Aug 10 Lec 08: Applications of conditional probability           HW 01 assigned: Lectures 01 - 08          Fri, Aug 11 Lab 04: Merge conflicts and more data wrangling         Week 05 Tue, Sep 15 Lec 09: Data science ethics          Thu, Sep 17 Lec 10: Estimation via bootstrapping          Fri, Sep 18 Exam 01 assigned: Lectures 01 - 08         Week 06 Tue, Sep 22 Lec 11: The hypothesis testing framework          Thu, Sep 24 Lec 12: Simulation based testing          Fri, Sep 25 Lab 05: Statistical inference with simulations           Final project: Introduction         Week 07 Tue, Sep 29 Lec 13: The Central Limit Theorem          Thu, Oct 01 Lec 14: Inference with the CLT          Fri, Oct 02 Lab 06: Statistical inference with the CLT         Week 08 Tue, Oct 06 Lec 15: Two-sample inference 1          Thu, Oct 08 Lec 16: Two-sample inference 2           HW 02 assigned: Lectures 09 - 16          Fri, Oct 09 Lab 07: Two-sample inference         Week 09 Tue, Oct 13 Lec 17: Special topics          Thu, Oct 15 Lec 18: Introducing the linear model          Fri, Oct 16 Exam 02 assigned: Lectures 09 - 16         Week 10 Tue, Oct 20 Lec 19: Multiple linear regression          Thu, Oct 22 Lec 20: Model diagnostics and assessment          Fri, Oct 23 Lab 08: Linear models           Peer feedback assigned         Week 11 Tue, Oct 26 Lec 21: Classification           HW 03 assigned: Lectures 18 - 21          Thu, Oct 28 Lec 22: Text and sentiment analysis          Fri, Oct 29 Lab 09: Classification         Week 12 Tue, Nov 03 Lec 23: Spatial data visualization          Thu, Nov 05 Lec 24: Web scraping          Fri, Nov 06 Exam 03 assigned: Lectures 18 - 21         Week 13 Tue, Nov 10 Lec 25: Functions and automation          Thu, Nov 12 Lec 24: Special topics          Fri, Nov 13 Project work day         Week 14  Reading period: project work day         Week 15 DATE Project presentations         </description>
+    </item>
+    
+    <item>
+      <title>Course Policies</title>
+      <link>/policies.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/policies.html</guid>
+      <description>Important Administrative Details STA 199
+Academic Honesty Academic honesty is of paramount importance in this class, and all work must be done in accordance with the Duke Community Standard, reproduced as follows:
+To uphold the Duke Community Standard:
+ I will not lie, cheat, or steal in my academic endeavors; I will conduct myself honorably in all my endeavors; and I will act if the Standard is compromised.  By enrolling in this course, you have agreed to abide by and uphold the provisions of the Duke Community Standard as well as the policies specific to this course.</description>
+    </item>
+    
+  </channel>
+</rss>
