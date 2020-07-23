@@ -1,2 +1,3 @@
-# sta199-fa20-001
- STA 199, Fall 2020, Duke University
+# STA 199, Fall 2020, Duke University
+
+Contains all front-facing materials for STA 199, Fall 2020, Duke University, Section 001 (Jiang)
