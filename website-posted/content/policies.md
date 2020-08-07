@@ -3,10 +3,6 @@ title: "Course Policies"
 markup: "mmark"
 ---
 
-### Important Administrative Details
-
-STA 199
-
 ### Academic Honesty
 
 Academic honesty is of paramount importance in this class, and all work must be done in accordance with the Duke Community Standard, reproduced as follows:
